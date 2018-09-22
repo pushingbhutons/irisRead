@@ -1,6 +1,8 @@
 # irisRead
 Iris-Read is a voiceAI created to read The Pu'Shing Bhu'Tons Series by Monique Finley.
 
+## SnipsAIR
+irisRead repo serves the actions for the Iris-Read app I'm building in the [SnipsAIR](https://console.snips.ai/?ref=yM6gdKP7E0E) console. This technology is enterprise / IoT ready, blockchain based, "privacy by design" oriented, with a decentralized app store.
 
 ## Game Plan
 Iris-Read will initially function as a chatbot that's versed in all things Pu'Shing Bhu'Tons. Later, I'll enable Iris to read the book (audo book player), search blockchains (Ethereum, LOOM, Steem), and reveal nesteggs (surprises for [metamask] logged in users). 
@@ -15,10 +17,6 @@ d. http://wiki.pushingbhutons.com </br>
 a. Zeemz: The Versipisces Secret (erc721 compliant digital trading card game based off short story, 'Poseidon Knows' by Monique Finley) </br>
 b. 'Poseidon Knows' (horror story about the "abandoned" Port Askance) </br>
 c. other related short stories </br>
-
-
-## SnipsAIR
-irisRead repo serves the actions for the Iris-Read app I'm building in the [SnipsAIR](https://console.snips.ai/?ref=yM6gdKP7E0E) console. This technology is enterprise / IoT ready, blockchain based, "privacy by design" oriented, with a decentralized app store.
 
 ## TODO
 1. Finish training Iris
