@@ -4,6 +4,14 @@ Iris-Read is a voiceAI created to read The Pu'Shing Bhu'Tons Series by Monique F
 ## SnipsAIR
 irisRead repo serves the actions for the Iris-Read app I'm building in the [SnipsAIR](https://console.snips.ai/?ref=yM6gdKP7E0E) console. This technology is enterprise / IoT ready, blockchain based, "privacy by design" oriented, with a decentralized app store.
 
+## Javascript Dependencies
+npm.js
+standard.js
+[mqtt.js](https://github.com/mqttjs) (mosquitto / mosca - open source mqtt broker)
+react.js / vue.js
+yett.js
+fontawesome (w/ vue.js component?)
+
 ## Game Plan
 Iris-Read will initially function as a chatbot that's versed in all things Pu'Shing Bhu'Tons. Later, I'll enable Iris to read the book (audo book player), search blockchains (Ethereum, LOOM, Steem), and reveal nesteggs (surprises for [metamask] logged in users). 
 
