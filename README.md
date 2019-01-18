@@ -5,13 +5,13 @@ Iris-Read is a voiceAI created to read [The Pu'Shing Bhu'Tons Series](https://ww
 irisRead repo serves the actions for the Iris-Read app I'm building in the [SnipsAIR](https://console.snips.ai/?ref=yM6gdKP7E0E) console. This technology is enterprise / IoT ready, blockchain based, "privacy by design" oriented, with a decentralized app store.
 
 ## Dependencies
-[npm.js](https://www.npmjs.com/package/download) (npm - node package manager)
-[standard.js](https://standardjs.com/) (style and code standardizing - aka cleanup library)
-[mqtt.js](https://github.com/mqttjs) (mosquitto / mosca - open source mqtt broker)
-[react.js](https://reactjs.org/) / [vue.js](https://vuejs.org/) (user interface library / framework)
-[yett.js](https://github.com/snipsco/yett) (3rd party scripts control)
-[fontawesome](https://fontawesome.com/icons?d=gallery&m=free) (Icons)
-[bootstrap](https://getbootstrap.com/) (Toolkit)
+[npm.js](https://www.npmjs.com/package/download) (npm - node package manager)</ br>
+[standard.js](https://standardjs.com/) (style and code standardizing - aka cleanup library)</ br>
+[mqtt.js](https://github.com/mqttjs) (mosquitto / mosca - open source mqtt broker)</ br>
+[react.js](https://reactjs.org/) / [vue.js](https://vuejs.org/) (user interface library / framework)</ br>
+[yett.js](https://github.com/snipsco/yett) (3rd party scripts control)</ br>
+[fontawesome](https://fontawesome.com/icons?d=gallery&m=free) (Icons)</ br>
+[bootstrap](https://getbootstrap.com/) (Toolkit)</ br>
 
 ## Game Plan
 Iris-Read will initially function as a chatbot that's versed in all things Pu'Shing Bhu'Tons. Later, I'll enable Iris to read the book (audo book player), search blockchains (Ethereum, LOOM, Steem), and reveal nesteggs (surprises for [metamask](https://metamask.io/) logged in users). 
