@@ -12,3 +12,6 @@ TODO
 4. verify utility of intents
 <br />a. are there better words for the intents? 
 <br />b. are there benefits to running intents through google adwords for seo keywords search?
+5. create alert flows
+<br />a. power - full, low, charging
+<br />b. alarms - clock, calendar
