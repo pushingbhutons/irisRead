@@ -1,19 +1,20 @@
 # irisRead
-Iris-Read is a voiceAI created to read The Pu'Shing Bhu'Tons Series by Monique Finley.
+Iris-Read is a voiceAI created to read [The Pu'Shing Bhu'Tons Series](https://www.pushingbhutons.com) by Monique Finley.
 
 ## SnipsAIR
 irisRead repo serves the actions for the Iris-Read app I'm building in the [SnipsAIR](https://console.snips.ai/?ref=yM6gdKP7E0E) console. This technology is enterprise / IoT ready, blockchain based, "privacy by design" oriented, with a decentralized app store.
 
-## Javascript Dependencies
-npm.js
-standard.js
+## Dependencies
+[npm.js](https://www.npmjs.com/package/download) (npm - node package manager)
+[standard.js](https://standardjs.com/) (style and code standardizing - aka cleanup library)
 [mqtt.js](https://github.com/mqttjs) (mosquitto / mosca - open source mqtt broker)
-react.js / vue.js
-yett.js
-fontawesome (w/ vue.js component?)
+[react.js](https://reactjs.org/) / [vue.js](https://vuejs.org/) (user interface library / framework)
+[yett.js](https://github.com/snipsco/yett) (3rd party scripts control)
+[fontawesome](https://fontawesome.com/icons?d=gallery&m=free) (Icons)
+[bootstrap](https://getbootstrap.com/) (Toolkit)
 
 ## Game Plan
-Iris-Read will initially function as a chatbot that's versed in all things Pu'Shing Bhu'Tons. Later, I'll enable Iris to read the book (audo book player), search blockchains (Ethereum, LOOM, Steem), and reveal nesteggs (surprises for [metamask] logged in users). 
+Iris-Read will initially function as a chatbot that's versed in all things Pu'Shing Bhu'Tons. Later, I'll enable Iris to read the book (audo book player), search blockchains (Ethereum, LOOM, Steem), and reveal nesteggs (surprises for [metamask](https://metamask.io/) logged in users). 
 
 1. Short Term: Teach Iris about the books of The Pu'Shing Bhu'Tons Series. </br>
 a. https://www.pushingbhutons.com </br>
