@@ -15,3 +15,4 @@ TODO
 5. create alert flows
 <br />a. power - full, low, charging
 <br />b. alarms - clock, calendar
+6. get keywords from blogs & get links to each page in Book 1.
